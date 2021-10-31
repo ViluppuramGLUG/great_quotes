@@ -15,7 +15,7 @@ class GreatQuotes extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Great Quotes',
       home: const HomePage(),
-      theme: ThemeData(primarySwatch: Colors.blue),
+      theme: ThemeData(primarySwatch: Colors.amber),
     );
   }
 }
